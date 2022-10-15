@@ -5,4 +5,4 @@
 * [Say "Hello, World!" With Python](say-Hello-World-with-python)
 * [Python If-Else](python-if-else)
 * [Arithmetic Operators](arithmetic-operators)
-* [Python: Division](python:Division)
+* [Python:Division](python:Division)
